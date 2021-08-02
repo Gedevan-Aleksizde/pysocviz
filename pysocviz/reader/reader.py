@@ -38,7 +38,7 @@ def convert_to_pandas_dtypes(df, df_schema):
 
 def load_dataset(name):
     with pkg_resources.path(data, f'{name}.csv') as datfile:
-        d = pd.read_csv(datfile)
+        d = pd.read_csv(datfile, low_memory=False)
     convert_funs = {
         c: (lambda col: lambda x:  map_dtype_base[
              SCHEMA[name][col]['class']
