@@ -3,8 +3,8 @@ from setuptools import setup, find_packages
 if __name__ == '__main__':
     setup(
         name='pysocviz',
-        version='0.1',
-        url='',
+        version='0.2',
+        url='https://github.com/Gedevan-Aleksizde/pysocviz',
         license='',
         author='Katagiri, Satoshi',
         packages=find_packages(),
