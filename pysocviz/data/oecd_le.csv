@@ -1,0 +1,1747 @@
+country,year,lifeexp,is_usa
+Australia,1960,70.9,other
+Australia,1961,71.2,other
+Australia,1962,71,other
+Australia,1963,71.1,other
+Australia,1964,70.7,other
+Australia,1965,71,other
+Australia,1966,70.8,other
+Australia,1967,71.2,other
+Australia,1968,70.9,other
+Australia,1969,71.1,other
+Australia,1970,70.8,other
+Australia,1971,71.6,other
+Australia,1972,72,other
+Australia,1973,72.1,other
+Australia,1974,71.9,other
+Australia,1975,72.7,other
+Australia,1976,72.8,other
+Australia,1977,73.4,other
+Australia,1978,73.7,other
+Australia,1979,74.3,other
+Australia,1980,74.6,other
+Australia,1981,74.9,other
+Australia,1982,74.7,other
+Australia,1983,75.5,other
+Australia,1984,75.8,other
+Australia,1985,75.6,other
+Australia,1986,76.1,other
+Australia,1987,76.3,other
+Australia,1988,76.3,other
+Australia,1989,76.5,other
+Australia,1990,77,other
+Australia,1991,77.4,other
+Australia,1992,77.5,other
+Australia,1993,78,other
+Australia,1994,78,other
+Australia,1995,77.9,other
+Australia,1996,78.2,other
+Australia,1997,78.5,other
+Australia,1998,78.7,other
+Australia,1999,79,other
+Australia,2000,79.3,other
+Australia,2001,79.7,other
+Australia,2002,80,other
+Australia,2003,80.3,other
+Australia,2004,80.6,other
+Australia,2005,80.9,other
+Australia,2006,81.1,other
+Australia,2007,81.4,other
+Australia,2008,81.5,other
+Australia,2009,81.6,other
+Australia,2010,81.8,other
+Australia,2011,82,other
+Australia,2012,82.1,other
+Australia,2013,82.2,other
+Australia,2014,82.4,other
+Australia,2015,82.5,other
+Austria,1960,68.7,other
+Austria,1961,69.7,other
+Austria,1962,69.4,other
+Austria,1963,69.6,other
+Austria,1964,70,other
+Austria,1965,69.8,other
+Austria,1966,70.2,other
+Austria,1967,70,other
+Austria,1968,70.2,other
+Austria,1969,69.9,other
+Austria,1970,70,other
+Austria,1971,70.2,other
+Austria,1972,70.6,other
+Austria,1973,71.1,other
+Austria,1974,71.1,other
+Austria,1975,71.2,other
+Austria,1976,71.7,other
+Austria,1977,72,other
+Austria,1978,72.1,other
+Austria,1979,72.4,other
+Austria,1980,72.6,other
+Austria,1981,72.9,other
+Austria,1982,73.1,other
+Austria,1983,73.1,other
+Austria,1984,73.7,other
+Austria,1985,73.9,other
+Austria,1986,74.4,other
+Austria,1987,74.9,other
+Austria,1988,75.3,other
+Austria,1989,75.4,other
+Austria,1990,75.7,other
+Austria,1991,75.7,other
+Austria,1992,75.9,other
+Austria,1993,76.2,other
+Austria,1994,76.5,other
+Austria,1995,76.8,other
+Austria,1996,77,other
+Austria,1997,77.4,other
+Austria,1998,77.8,other
+Austria,1999,78,other
+Austria,2000,78.2,other
+Austria,2001,78.7,other
+Austria,2002,78.8,other
+Austria,2003,78.7,other
+Austria,2004,79.3,other
+Austria,2005,79.4,other
+Austria,2006,80,other
+Austria,2007,80.3,other
+Austria,2008,80.5,other
+Austria,2009,80.4,other
+Austria,2010,80.7,other
+Austria,2011,81.1,other
+Austria,2012,81,other
+Austria,2013,81.2,other
+Austria,2014,81.6,other
+Austria,2015,81.3,other
+Belgium,1960,69.8,other
+Belgium,1961,70.6,other
+Belgium,1962,70.3,other
+Belgium,1963,70.1,other
+Belgium,1964,70.9,other
+Belgium,1965,70.7,other
+Belgium,1966,70.8,other
+Belgium,1967,71.1,other
+Belgium,1968,70.8,other
+Belgium,1969,70.9,other
+Belgium,1970,71.1,other
+Belgium,1971,71.2,other
+Belgium,1972,71.5,other
+Belgium,1973,71.7,other
+Belgium,1974,72.1,other
+Belgium,1975,72.1,other
+Belgium,1976,72.2,other
+Belgium,1977,72.9,other
+Belgium,1978,72.8,other
+Belgium,1979,73.3,other
+Belgium,1980,73.3,other
+Belgium,1981,73.7,other
+Belgium,1982,74,other
+Belgium,1983,74,other
+Belgium,1984,74.5,other
+Belgium,1985,74.6,other
+Belgium,1986,74.8,other
+Belgium,1987,75.5,other
+Belgium,1988,75.7,other
+Belgium,1989,75.7,other
+Belgium,1990,76.1,other
+Belgium,1991,76.3,other
+Belgium,1992,76.5,other
+Belgium,1993,76.5,other
+Belgium,1994,76.8,other
+Belgium,1995,77,other
+Belgium,1996,77.3,other
+Belgium,1997,77.5,other
+Belgium,1998,77.6,other
+Belgium,1999,77.7,other
+Belgium,2000,77.8,other
+Belgium,2001,78.1,other
+Belgium,2002,78.2,other
+Belgium,2003,78.2,other
+Belgium,2004,79,other
+Belgium,2005,79.1,other
+Belgium,2006,79.5,other
+Belgium,2007,79.9,other
+Belgium,2008,79.8,other
+Belgium,2009,80.1,other
+Belgium,2010,80.3,other
+Belgium,2011,80.7,other
+Belgium,2012,80.5,other
+Belgium,2013,80.7,other
+Belgium,2014,81.4,other
+Belgium,2015,81.1,other
+Canada,1961,71.3,other
+Canada,1966,72,other
+Canada,1971,72.9,other
+Canada,1976,73.9,other
+Canada,1979,75.1,other
+Canada,1980,75.3,other
+Canada,1981,75.5,other
+Canada,1982,75.6,other
+Canada,1983,75.9,other
+Canada,1984,76.2,other
+Canada,1985,76.3,other
+Canada,1986,76.5,other
+Canada,1987,76.6,other
+Canada,1988,76.8,other
+Canada,1989,77,other
+Canada,1990,77.2,other
+Canada,1991,77.5,other
+Canada,1992,77.7,other
+Canada,1993,77.8,other
+Canada,1994,77.9,other
+Canada,1995,77.9,other
+Canada,1996,78.1,other
+Canada,1997,78.3,other
+Canada,1998,78.5,other
+Canada,1999,78.7,other
+Canada,2000,79,other
+Canada,2001,79.2,other
+Canada,2002,79.4,other
+Canada,2003,79.6,other
+Canada,2004,79.8,other
+Canada,2005,80,other
+Canada,2006,80.3,other
+Canada,2007,80.4,other
+Canada,2008,80.6,other
+Canada,2009,80.8,other
+Canada,2010,81.1,other
+Canada,2011,81.3,other
+Canada,2012,81.5,other
+Canada,2013,81.7,other
+Czech Republic,1960,70.7,other
+Czech Republic,1961,70.7,other
+Czech Republic,1962,69.9,other
+Czech Republic,1963,70.5,other
+Czech Republic,1964,70.7,other
+Czech Republic,1965,70.4,other
+Czech Republic,1966,70.6,other
+Czech Republic,1967,70.5,other
+Czech Republic,1968,70.1,other
+Czech Republic,1969,69.6,other
+Czech Republic,1970,69.6,other
+Czech Republic,1971,69.8,other
+Czech Republic,1972,70.3,other
+Czech Republic,1973,70.2,other
+Czech Republic,1974,70.2,other
+Czech Republic,1975,70.6,other
+Czech Republic,1976,70.7,other
+Czech Republic,1977,70.8,other
+Czech Republic,1978,70.9,other
+Czech Republic,1979,70.9,other
+Czech Republic,1980,70.5,other
+Czech Republic,1981,70.8,other
+Czech Republic,1982,70.9,other
+Czech Republic,1983,70.8,other
+Czech Republic,1984,71,other
+Czech Republic,1985,71.2,other
+Czech Republic,1986,71.1,other
+Czech Republic,1987,71.6,other
+Czech Republic,1988,71.8,other
+Czech Republic,1989,71.9,other
+Czech Republic,1990,71.6,other
+Czech Republic,1991,72,other
+Czech Republic,1992,72.5,other
+Czech Republic,1993,72.9,other
+Czech Republic,1994,73.2,other
+Czech Republic,1995,73.3,other
+Czech Republic,1996,74,other
+Czech Republic,1997,74.1,other
+Czech Republic,1998,74.7,other
+Czech Republic,1999,74.9,other
+Czech Republic,2000,75.1,other
+Czech Republic,2001,75.3,other
+Czech Republic,2002,75.4,other
+Czech Republic,2003,75.3,other
+Czech Republic,2004,75.8,other
+Czech Republic,2005,76.1,other
+Czech Republic,2006,76.7,other
+Czech Republic,2007,77,other
+Czech Republic,2008,77.3,other
+Czech Republic,2009,77.4,other
+Czech Republic,2010,77.7,other
+Czech Republic,2011,78,other
+Czech Republic,2012,78.2,other
+Czech Republic,2013,78.3,other
+Czech Republic,2014,78.9,other
+Czech Republic,2015,78.7,other
+Denmark,1960,72.4,other
+Denmark,1967,72.6,other
+Denmark,1968,73,other
+Denmark,1969,73.2,other
+Denmark,1970,73.3,other
+Denmark,1971,73.3,other
+Denmark,1972,73.4,other
+Denmark,1973,73.6,other
+Denmark,1974,74,other
+Denmark,1975,74.2,other
+Denmark,1976,73.9,other
+Denmark,1977,74.9,other
+Denmark,1978,74.6,other
+Denmark,1979,74.4,other
+Denmark,1980,74.3,other
+Denmark,1981,74.4,other
+Denmark,1982,74.7,other
+Denmark,1983,74.6,other
+Denmark,1984,74.8,other
+Denmark,1985,74.6,other
+Denmark,1986,74.8,other
+Denmark,1987,74.9,other
+Denmark,1988,75,other
+Denmark,1989,75,other
+Denmark,1990,74.9,other
+Denmark,1991,75.3,other
+Denmark,1992,75.3,other
+Denmark,1993,75.2,other
+Denmark,1994,75.5,other
+Denmark,1995,75.3,other
+Denmark,1996,75.7,other
+Denmark,1997,76.1,other
+Denmark,1998,76.5,other
+Denmark,1999,76.6,other
+Denmark,2000,76.9,other
+Denmark,2001,77,other
+Denmark,2002,77.1,other
+Denmark,2003,77.4,other
+Denmark,2004,77.8,other
+Denmark,2005,78.3,other
+Denmark,2006,78.4,other
+Denmark,2007,78.4,other
+Denmark,2008,78.8,other
+Denmark,2009,79,other
+Denmark,2010,79.3,other
+Denmark,2011,79.9,other
+Denmark,2012,80.1,other
+Denmark,2013,80.4,other
+Denmark,2014,80.8,other
+Denmark,2015,80.8,other
+Finland,1960,69,other
+Finland,1963,69,other
+Finland,1968,69.8,other
+Finland,1970,70.8,other
+Finland,1971,70.1,other
+Finland,1972,70.7,other
+Finland,1973,71.2,other
+Finland,1974,71.2,other
+Finland,1975,71.7,other
+Finland,1976,72,other
+Finland,1977,72.4,other
+Finland,1978,73,other
+Finland,1979,73.2,other
+Finland,1980,73.6,other
+Finland,1981,73.9,other
+Finland,1982,74.6,other
+Finland,1983,74.4,other
+Finland,1984,74.8,other
+Finland,1985,74.5,other
+Finland,1986,74.8,other
+Finland,1987,74.8,other
+Finland,1988,74.8,other
+Finland,1989,75,other
+Finland,1990,75,other
+Finland,1991,75.5,other
+Finland,1992,75.7,other
+Finland,1993,75.8,other
+Finland,1994,76.6,other
+Finland,1995,76.6,other
+Finland,1996,76.9,other
+Finland,1997,77.1,other
+Finland,1998,77.3,other
+Finland,1999,77.5,other
+Finland,2000,77.7,other
+Finland,2001,78.2,other
+Finland,2002,78.3,other
+Finland,2003,78.5,other
+Finland,2004,79,other
+Finland,2005,79.1,other
+Finland,2006,79.5,other
+Finland,2007,79.6,other
+Finland,2008,79.9,other
+Finland,2009,80.1,other
+Finland,2010,80.2,other
+Finland,2011,80.6,other
+Finland,2012,80.7,other
+Finland,2013,81.1,other
+Finland,2014,81.3,other
+Finland,2015,81.6,other
+France,1960,70.3,other
+France,1961,71,other
+France,1962,70.5,other
+France,1963,70.5,other
+France,1964,71.4,other
+France,1965,71.3,other
+France,1966,71.5,other
+France,1967,71.5,other
+France,1968,71.5,other
+France,1969,71.3,other
+France,1970,72.2,other
+France,1971,72.1,other
+France,1972,72.4,other
+France,1973,72.5,other
+France,1974,72.8,other
+France,1975,73,other
+France,1976,73.2,other
+France,1977,73.8,other
+France,1978,73.9,other
+France,1979,74.2,other
+France,1980,74.3,other
+France,1981,74.5,other
+France,1982,74.8,other
+France,1983,74.8,other
+France,1984,75.3,other
+France,1985,75.4,other
+France,1986,75.7,other
+France,1987,76.3,other
+France,1988,76.6,other
+France,1989,76.7,other
+France,1990,77,other
+France,1991,77.2,other
+France,1992,77.5,other
+France,1993,77.6,other
+France,1994,78,other
+France,1995,78.1,other
+France,1996,78.3,other
+France,1997,78.6,other
+France,1998,78.8,other
+France,1999,78.9,other
+France,2000,79.2,other
+France,2001,79.3,other
+France,2002,79.4,other
+France,2003,79.3,other
+France,2004,80.3,other
+France,2005,80.4,other
+France,2006,81,other
+France,2007,81.2,other
+France,2008,81.4,other
+France,2009,81.5,other
+France,2010,81.8,other
+France,2011,82.3,other
+France,2012,82.1,other
+France,2013,82.3,other
+France,2014,82.8,other
+France,2015,82.4,other
+Germany,1960,69.1,other
+Germany,1961,69.7,other
+Germany,1962,69.9,other
+Germany,1963,70,other
+Germany,1964,70.6,other
+Germany,1965,70.5,other
+Germany,1966,70.6,other
+Germany,1967,70.9,other
+Germany,1968,70.5,other
+Germany,1969,70.3,other
+Germany,1970,70.6,other
+Germany,1971,70.8,other
+Germany,1972,71,other
+Germany,1973,71.3,other
+Germany,1974,71.5,other
+Germany,1975,71.4,other
+Germany,1976,71.8,other
+Germany,1977,72.5,other
+Germany,1978,72.4,other
+Germany,1979,72.8,other
+Germany,1980,72.9,other
+Germany,1981,73.2,other
+Germany,1982,73.5,other
+Germany,1983,73.8,other
+Germany,1984,74.3,other
+Germany,1985,74.4,other
+Germany,1986,74.6,other
+Germany,1987,75,other
+Germany,1988,75.2,other
+Germany,1989,75.4,other
+Germany,1990,75.3,other
+Germany,1991,75.5,other
+Germany,1992,76,other
+Germany,1993,76.1,other
+Germany,1994,76.4,other
+Germany,1995,76.6,other
+Germany,1996,76.9,other
+Germany,1997,77.3,other
+Germany,1998,77.7,other
+Germany,1999,77.9,other
+Germany,2000,78.2,other
+Germany,2001,78.5,other
+Germany,2002,78.5,other
+Germany,2003,78.6,other
+Germany,2004,79.2,other
+Germany,2005,79.4,other
+Germany,2006,79.8,other
+Germany,2007,80.1,other
+Germany,2008,80.2,other
+Germany,2009,80.3,other
+Germany,2010,80.5,other
+Germany,2011,80.5,other
+Germany,2012,80.6,other
+Germany,2013,80.6,other
+Germany,2014,81.2,other
+Germany,2015,80.7,other
+Greece,1961,72,other
+Greece,1962,71.7,other
+Greece,1963,72,other
+Greece,1964,71.9,other
+Greece,1965,72.4,other
+Greece,1966,72.6,other
+Greece,1967,72.3,other
+Greece,1968,72.4,other
+Greece,1969,73,other
+Greece,1970,73.8,other
+Greece,1971,74.2,other
+Greece,1972,73.8,other
+Greece,1973,74.1,other
+Greece,1974,74.6,other
+Greece,1975,74.5,other
+Greece,1976,74.5,other
+Greece,1977,74.7,other
+Greece,1978,75.2,other
+Greece,1979,75.5,other
+Greece,1980,75.3,other
+Greece,1981,75.7,other
+Greece,1982,75.9,other
+Greece,1983,75.7,other
+Greece,1984,76.2,other
+Greece,1985,76,other
+Greece,1986,76.5,other
+Greece,1987,76.3,other
+Greece,1988,76.8,other
+Greece,1989,77,other
+Greece,1990,77.1,other
+Greece,1991,77.3,other
+Greece,1992,77.2,other
+Greece,1993,77.6,other
+Greece,1994,77.8,other
+Greece,1995,77.8,other
+Greece,1996,78,other
+Greece,1997,78.4,other
+Greece,1998,78.4,other
+Greece,1999,78.5,other
+Greece,2000,78.6,other
+Greece,2001,79.1,other
+Greece,2002,79.2,other
+Greece,2003,79.3,other
+Greece,2004,79.4,other
+Greece,2005,79.7,other
+Greece,2006,79.9,other
+Greece,2007,79.7,other
+Greece,2008,80.3,other
+Greece,2009,80.4,other
+Greece,2010,80.7,other
+Greece,2011,80.8,other
+Greece,2012,80.7,other
+Greece,2013,81.4,other
+Greece,2014,81.5,other
+Greece,2015,81.1,other
+Hungary,1960,68.1,other
+Hungary,1961,69,other
+Hungary,1962,67.9,other
+Hungary,1963,69,other
+Hungary,1964,69.5,other
+Hungary,1965,69.1,other
+Hungary,1966,69.9,other
+Hungary,1967,69.5,other
+Hungary,1968,69.3,other
+Hungary,1969,69.4,other
+Hungary,1970,69.2,other
+Hungary,1971,69.1,other
+Hungary,1972,69.8,other
+Hungary,1973,69.6,other
+Hungary,1974,69.3,other
+Hungary,1975,69.4,other
+Hungary,1976,69.7,other
+Hungary,1977,70,other
+Hungary,1978,69.5,other
+Hungary,1979,69.7,other
+Hungary,1980,69.2,other
+Hungary,1981,69.3,other
+Hungary,1982,69.5,other
+Hungary,1983,69.1,other
+Hungary,1984,69.2,other
+Hungary,1985,69.2,other
+Hungary,1986,69.3,other
+Hungary,1987,69.8,other
+Hungary,1988,70.2,other
+Hungary,1989,69.6,other
+Hungary,1990,69.5,other
+Hungary,1991,69.6,other
+Hungary,1992,69.4,other
+Hungary,1993,69.4,other
+Hungary,1994,69.8,other
+Hungary,1995,70.1,other
+Hungary,1996,70.7,other
+Hungary,1997,71.1,other
+Hungary,1998,71.1,other
+Hungary,1999,71.2,other
+Hungary,2000,71.9,other
+Hungary,2001,72.5,other
+Hungary,2002,72.5,other
+Hungary,2003,72.6,other
+Hungary,2004,73,other
+Hungary,2005,73,other
+Hungary,2006,73.5,other
+Hungary,2007,73.6,other
+Hungary,2008,74.2,other
+Hungary,2009,74.4,other
+Hungary,2010,74.7,other
+Hungary,2011,75,other
+Hungary,2012,75.2,other
+Hungary,2013,75.7,other
+Hungary,2014,75.9,other
+Hungary,2015,75.7,other
+Iceland,1961,73.6,other
+Iceland,1962,73.8,other
+Iceland,1963,73.2,other
+Iceland,1964,73.6,other
+Iceland,1965,73.9,other
+Iceland,1966,73.4,other
+Iceland,1967,73.9,other
+Iceland,1968,74.1,other
+Iceland,1969,73.8,other
+Iceland,1970,74,other
+Iceland,1971,73.7,other
+Iceland,1972,74.5,other
+Iceland,1973,74.6,other
+Iceland,1974,74.6,other
+Iceland,1975,75.7,other
+Iceland,1976,77.1,other
+Iceland,1977,76.5,other
+Iceland,1978,76.7,other
+Iceland,1980,77,other
+Iceland,1981,76.6,other
+Iceland,1982,77.1,other
+Iceland,1983,77,other
+Iceland,1984,77.7,other
+Iceland,1985,77.7,other
+Iceland,1986,78.1,other
+Iceland,1987,77.4,other
+Iceland,1988,77.2,other
+Iceland,1989,78.2,other
+Iceland,1990,78.1,other
+Iceland,1991,78.1,other
+Iceland,1992,78.8,other
+Iceland,1993,79,other
+Iceland,1994,79.3,other
+Iceland,1995,78.1,other
+Iceland,1996,78.9,other
+Iceland,1997,79,other
+Iceland,1998,79.7,other
+Iceland,1999,79.4,other
+Iceland,2000,79.7,other
+Iceland,2001,80.8,other
+Iceland,2002,80.6,other
+Iceland,2003,81,other
+Iceland,2004,81.1,other
+Iceland,2005,81.6,other
+Iceland,2006,81.2,other
+Iceland,2007,81.5,other
+Iceland,2008,81.7,other
+Iceland,2009,81.8,other
+Iceland,2010,82,other
+Iceland,2011,82.4,other
+Iceland,2012,83,other
+Iceland,2013,82.1,other
+Iceland,2014,82.9,other
+Iceland,2015,82.5,other
+Ireland,1960,70,other
+Ireland,1970,71.2,other
+Ireland,1978,71.5,other
+Ireland,1979,72.3,other
+Ireland,1980,72.9,other
+Ireland,1981,72.9,other
+Ireland,1982,72.9,other
+Ireland,1985,73.4,other
+Ireland,1986,73.6,other
+Ireland,1987,74.5,other
+Ireland,1988,74.5,other
+Ireland,1989,74.5,other
+Ireland,1990,74.9,other
+Ireland,1991,75.1,other
+Ireland,1992,75.5,other
+Ireland,1993,75.3,other
+Ireland,1994,75.9,other
+Ireland,1995,75.6,other
+Ireland,1996,75.9,other
+Ireland,1997,76.1,other
+Ireland,1998,76.3,other
+Ireland,1999,76.2,other
+Ireland,2000,76.6,other
+Ireland,2001,77.2,other
+Ireland,2002,77.7,other
+Ireland,2003,78.2,other
+Ireland,2004,78.6,other
+Ireland,2005,79,other
+Ireland,2006,79.3,other
+Ireland,2007,79.7,other
+Ireland,2008,80.2,other
+Ireland,2009,80.3,other
+Ireland,2010,80.8,other
+Ireland,2011,80.8,other
+Ireland,2012,80.9,other
+Ireland,2013,81.1,other
+Ireland,2014,81.4,other
+Ireland,2015,81.5,other
+Italy,1961,69.8,other
+Italy,1971,72,other
+Italy,1974,72.6,other
+Italy,1975,72.7,other
+Italy,1976,72.8,other
+Italy,1977,73.4,other
+Italy,1978,73.8,other
+Italy,1979,74.1,other
+Italy,1980,74,other
+Italy,1981,74.3,other
+Italy,1982,74.7,other
+Italy,1983,74.8,other
+Italy,1984,75,other
+Italy,1985,75.6,other
+Italy,1986,75.9,other
+Italy,1987,76.3,other
+Italy,1988,76.5,other
+Italy,1989,76.9,other
+Italy,1990,77.1,other
+Italy,1991,77.1,other
+Italy,1992,77.5,other
+Italy,1993,77.8,other
+Italy,1994,78,other
+Italy,1995,78.3,other
+Italy,1996,78.6,other
+Italy,1997,78.9,other
+Italy,1998,79.1,other
+Italy,1999,79.5,other
+Italy,2000,79.9,other
+Italy,2001,80.2,other
+Italy,2002,80.3,other
+Italy,2003,80.1,other
+Italy,2004,80.9,other
+Italy,2005,80.9,other
+Italy,2006,81.4,other
+Italy,2007,81.5,other
+Italy,2008,81.6,other
+Italy,2009,81.7,other
+Italy,2010,82.1,other
+Italy,2011,82.3,other
+Italy,2012,82.3,other
+Italy,2013,82.8,other
+Italy,2014,83.2,other
+Italy,2015,82.6,other
+Japan,1960,67.8,other
+Japan,1961,68.4,other
+Japan,1962,68.7,other
+Japan,1963,69.8,other
+Japan,1964,70.3,other
+Japan,1965,70.3,other
+Japan,1966,71,other
+Japan,1967,71.5,other
+Japan,1968,71.7,other
+Japan,1969,71.9,other
+Japan,1970,72,other
+Japan,1971,72.9,other
+Japan,1972,73.2,other
+Japan,1973,73.4,other
+Japan,1974,73.7,other
+Japan,1975,74.3,other
+Japan,1976,74.8,other
+Japan,1977,75.3,other
+Japan,1978,75.7,other
+Japan,1979,76.2,other
+Japan,1980,76.1,other
+Japan,1981,76.5,other
+Japan,1982,76.9,other
+Japan,1983,77,other
+Japan,1984,77.4,other
+Japan,1985,77.6,other
+Japan,1986,78.1,other
+Japan,1987,78.5,other
+Japan,1988,78.4,other
+Japan,1989,78.8,other
+Japan,1990,78.9,other
+Japan,1991,79.1,other
+Japan,1992,79.2,other
+Japan,1993,79.4,other
+Japan,1994,79.8,other
+Japan,1995,79.6,other
+Japan,1996,80.3,other
+Japan,1997,80.5,other
+Japan,1998,80.6,other
+Japan,1999,80.6,other
+Japan,2000,81.2,other
+Japan,2001,81.5,other
+Japan,2002,81.8,other
+Japan,2003,81.9,other
+Japan,2004,82.1,other
+Japan,2005,82,other
+Japan,2006,82.4,other
+Japan,2007,82.6,other
+Japan,2008,82.7,other
+Japan,2009,83,other
+Japan,2010,82.9,other
+Japan,2011,82.7,other
+Japan,2012,83.2,other
+Japan,2013,83.4,other
+Japan,2014,83.7,other
+Japan,2015,83.9,other
+Korea,1970,62.3,other
+Korea,1971,62.7,other
+Korea,1972,63.1,other
+Korea,1973,63.5,other
+Korea,1974,63.9,other
+Korea,1975,64.3,other
+Korea,1976,64.6,other
+Korea,1977,65,other
+Korea,1978,65.3,other
+Korea,1979,65.6,other
+Korea,1980,66.2,other
+Korea,1981,66.7,other
+Korea,1982,67.2,other
+Korea,1983,67.7,other
+Korea,1984,68.3,other
+Korea,1985,68.9,other
+Korea,1986,69.5,other
+Korea,1987,70.1,other
+Korea,1988,70.7,other
+Korea,1989,71.2,other
+Korea,1990,71.7,other
+Korea,1991,72.2,other
+Korea,1992,72.6,other
+Korea,1993,73.1,other
+Korea,1994,73.5,other
+Korea,1995,73.8,other
+Korea,1996,74.2,other
+Korea,1997,74.7,other
+Korea,1998,75.1,other
+Korea,1999,75.5,other
+Korea,2000,76,other
+Korea,2001,76.5,other
+Korea,2002,76.8,other
+Korea,2003,77.3,other
+Korea,2004,77.8,other
+Korea,2005,78.2,other
+Korea,2006,78.8,other
+Korea,2007,79.2,other
+Korea,2008,79.6,other
+Korea,2009,80,other
+Korea,2010,80.2,other
+Korea,2011,80.6,other
+Korea,2012,80.9,other
+Korea,2013,81.4,other
+Korea,2014,81.8,other
+Korea,2015,82.1,other
+Luxembourg,1960,69.4,other
+Luxembourg,1971,69.7,other
+Luxembourg,1972,70.9,other
+Luxembourg,1973,70.8,other
+Luxembourg,1974,70.8,other
+Luxembourg,1975,70.8,other
+Luxembourg,1976,70.8,other
+Luxembourg,1977,72.2,other
+Luxembourg,1978,72.1,other
+Luxembourg,1979,72.8,other
+Luxembourg,1980,72.8,other
+Luxembourg,1981,72.6,other
+Luxembourg,1982,72.7,other
+Luxembourg,1983,73.5,other
+Luxembourg,1984,73.3,other
+Luxembourg,1985,73.8,other
+Luxembourg,1986,74.7,other
+Luxembourg,1987,74.3,other
+Luxembourg,1988,75,other
+Luxembourg,1989,74.8,other
+Luxembourg,1990,75.6,other
+Luxembourg,1991,75.7,other
+Luxembourg,1992,75.3,other
+Luxembourg,1993,75.9,other
+Luxembourg,1994,76.6,other
+Luxembourg,1995,76.8,other
+Luxembourg,1996,76.8,other
+Luxembourg,1997,77,other
+Luxembourg,1998,77.3,other
+Luxembourg,1999,77.9,other
+Luxembourg,2000,78,other
+Luxembourg,2001,77.9,other
+Luxembourg,2002,78.1,other
+Luxembourg,2003,77.8,other
+Luxembourg,2004,79.2,other
+Luxembourg,2005,79.5,other
+Luxembourg,2006,79.4,other
+Luxembourg,2007,79.5,other
+Luxembourg,2008,80.6,other
+Luxembourg,2009,80.7,other
+Luxembourg,2010,80.7,other
+Luxembourg,2011,81.1,other
+Luxembourg,2012,81.5,other
+Luxembourg,2013,81.9,other
+Luxembourg,2014,82.3,other
+Luxembourg,2015,82.4,other
+Mexico,1960,57.5,other
+Mexico,1961,58.2,other
+Mexico,1962,58.8,other
+Mexico,1963,59.3,other
+Mexico,1964,59.9,other
+Mexico,1965,60.3,other
+Mexico,1966,60.7,other
+Mexico,1967,61,other
+Mexico,1968,61.3,other
+Mexico,1969,61.6,other
+Mexico,1970,60.9,other
+Mexico,1971,62.4,other
+Mexico,1972,63.1,other
+Mexico,1973,63.7,other
+Mexico,1974,64.2,other
+Mexico,1975,64.7,other
+Mexico,1976,65.2,other
+Mexico,1977,65.7,other
+Mexico,1978,66.1,other
+Mexico,1979,66.6,other
+Mexico,1980,67.2,other
+Mexico,1981,67.7,other
+Mexico,1982,68.2,other
+Mexico,1983,68.6,other
+Mexico,1984,69.1,other
+Mexico,1985,69.5,other
+Mexico,1986,69.9,other
+Mexico,1987,70.2,other
+Mexico,1988,70.6,other
+Mexico,1989,70.8,other
+Mexico,1990,70.5,other
+Mexico,1991,70.9,other
+Mexico,1992,71.3,other
+Mexico,1993,71.7,other
+Mexico,1994,72,other
+Mexico,1995,72.3,other
+Mexico,1996,72.5,other
+Mexico,1997,72.8,other
+Mexico,1998,73,other
+Mexico,1999,73.2,other
+Mexico,2000,73.3,other
+Mexico,2001,73.5,other
+Mexico,2002,73.6,other
+Mexico,2003,73.8,other
+Mexico,2004,73.9,other
+Mexico,2005,74,other
+Mexico,2006,74.1,other
+Mexico,2007,74.2,other
+Mexico,2008,74.1,other
+Mexico,2009,74,other
+Mexico,2010,74.1,other
+Mexico,2011,74.2,other
+Mexico,2012,74.4,other
+Mexico,2013,74.6,other
+Mexico,2014,74.8,other
+Mexico,2015,75,other
+Mexico,2016,75,other
+Netherlands,1960,73.5,other
+Netherlands,1961,73.8,other
+Netherlands,1962,73.4,other
+Netherlands,1963,73.4,other
+Netherlands,1964,73.8,other
+Netherlands,1965,73.6,other
+Netherlands,1966,73.6,other
+Netherlands,1967,73.9,other
+Netherlands,1968,73.7,other
+Netherlands,1969,73.6,other
+Netherlands,1970,73.7,other
+Netherlands,1971,73.9,other
+Netherlands,1972,73.8,other
+Netherlands,1973,74.2,other
+Netherlands,1974,74.6,other
+Netherlands,1975,74.6,other
+Netherlands,1976,74.7,other
+Netherlands,1977,75.3,other
+Netherlands,1978,75.3,other
+Netherlands,1979,75.7,other
+Netherlands,1980,75.9,other
+Netherlands,1981,76,other
+Netherlands,1982,76.1,other
+Netherlands,1983,76.3,other
+Netherlands,1984,76.4,other
+Netherlands,1985,76.5,other
+Netherlands,1986,76.4,other
+Netherlands,1987,76.9,other
+Netherlands,1988,77.1,other
+Netherlands,1989,76.9,other
+Netherlands,1990,77,other
+Netherlands,1991,77.2,other
+Netherlands,1992,77.4,other
+Netherlands,1993,77.1,other
+Netherlands,1994,77.5,other
+Netherlands,1995,77.6,other
+Netherlands,1996,77.6,other
+Netherlands,1997,78,other
+Netherlands,1998,78,other
+Netherlands,1999,77.9,other
+Netherlands,2000,78.2,other
+Netherlands,2001,78.3,other
+Netherlands,2002,78.4,other
+Netherlands,2003,78.7,other
+Netherlands,2004,79.2,other
+Netherlands,2005,79.5,other
+Netherlands,2006,79.9,other
+Netherlands,2007,80.3,other
+Netherlands,2008,80.5,other
+Netherlands,2009,80.8,other
+Netherlands,2010,81,other
+Netherlands,2011,81.3,other
+Netherlands,2012,81.2,other
+Netherlands,2013,81.4,other
+Netherlands,2014,81.8,other
+Netherlands,2015,81.6,other
+New Zealand,1961,71.1,other
+New Zealand,1962,71.2,other
+New Zealand,1963,71.2,other
+New Zealand,1964,71.2,other
+New Zealand,1965,71.2,other
+New Zealand,1966,71.3,other
+New Zealand,1967,71.4,other
+New Zealand,1968,71.4,other
+New Zealand,1969,71.5,other
+New Zealand,1970,71.5,other
+New Zealand,1971,71.6,other
+New Zealand,1972,71.7,other
+New Zealand,1973,71.8,other
+New Zealand,1974,72,other
+New Zealand,1975,72.1,other
+New Zealand,1976,72.3,other
+New Zealand,1977,72.5,other
+New Zealand,1978,72.7,other
+New Zealand,1979,72.9,other
+New Zealand,1980,73.2,other
+New Zealand,1981,73.4,other
+New Zealand,1982,73.6,other
+New Zealand,1983,73.7,other
+New Zealand,1984,73.8,other
+New Zealand,1985,74,other
+New Zealand,1986,74.1,other
+New Zealand,1987,74.5,other
+New Zealand,1988,74.8,other
+New Zealand,1989,75.2,other
+New Zealand,1990,75.5,other
+New Zealand,1991,75.8,other
+New Zealand,1992,76.1,other
+New Zealand,1993,76.3,other
+New Zealand,1994,76.6,other
+New Zealand,1995,76.8,other
+New Zealand,1996,77.1,other
+New Zealand,1997,77.4,other
+New Zealand,1998,77.7,other
+New Zealand,1999,78.1,other
+New Zealand,2000,78.4,other
+New Zealand,2001,78.7,other
+New Zealand,2002,79,other
+New Zealand,2003,79.3,other
+New Zealand,2004,79.6,other
+New Zealand,2005,79.8,other
+New Zealand,2006,80.1,other
+New Zealand,2007,80.3,other
+New Zealand,2008,80.5,other
+New Zealand,2009,80.7,other
+New Zealand,2010,80.8,other
+New Zealand,2011,81,other
+New Zealand,2012,81.2,other
+New Zealand,2013,81.4,other
+New Zealand,2014,81.5,other
+New Zealand,2015,81.7,other
+Norway,1960,73.8,other
+Norway,1961,73.8,other
+Norway,1962,73.7,other
+Norway,1963,73.4,other
+Norway,1964,73.9,other
+Norway,1965,74,other
+Norway,1966,74.3,other
+Norway,1967,74.3,other
+Norway,1968,74.2,other
+Norway,1969,74,other
+Norway,1970,74.4,other
+Norway,1971,74.4,other
+Norway,1972,74.6,other
+Norway,1973,74.7,other
+Norway,1974,75.1,other
+Norway,1975,75.1,other
+Norway,1976,75.3,other
+Norway,1977,75.7,other
+Norway,1978,75.8,other
+Norway,1979,75.8,other
+Norway,1980,75.9,other
+Norway,1981,76.1,other
+Norway,1982,76.2,other
+Norway,1983,76.3,other
+Norway,1984,76.4,other
+Norway,1985,76.1,other
+Norway,1986,76.5,other
+Norway,1987,76.3,other
+Norway,1988,76.4,other
+Norway,1989,76.7,other
+Norway,1990,76.7,other
+Norway,1991,77.1,other
+Norway,1992,77.4,other
+Norway,1993,77.3,other
+Norway,1994,77.9,other
+Norway,1995,77.9,other
+Norway,1996,78.3,other
+Norway,1997,78.3,other
+Norway,1998,78.5,other
+Norway,1999,78.4,other
+Norway,2000,78.8,other
+Norway,2001,78.9,other
+Norway,2002,79,other
+Norway,2003,79.6,other
+Norway,2004,80.1,other
+Norway,2005,80.3,other
+Norway,2006,80.6,other
+Norway,2007,80.6,other
+Norway,2008,80.8,other
+Norway,2009,81,other
+Norway,2010,81.2,other
+Norway,2011,81.4,other
+Norway,2012,81.5,other
+Norway,2013,81.8,other
+Norway,2014,82.2,other
+Norway,2015,82.4,other
+Poland,1960,67.8,other
+Poland,1961,67.9,other
+Poland,1962,67.5,other
+Poland,1963,68.5,other
+Poland,1964,68.7,other
+Poland,1965,69.5,other
+Poland,1966,69.9,other
+Poland,1967,69.5,other
+Poland,1968,70.3,other
+Poland,1969,69.8,other
+Poland,1970,70,other
+Poland,1971,69.7,other
+Poland,1972,70.8,other
+Poland,1973,70.7,other
+Poland,1974,71.2,other
+Poland,1975,70.6,other
+Poland,1976,70.7,other
+Poland,1977,70.5,other
+Poland,1978,70.5,other
+Poland,1979,70.9,other
+Poland,1980,70.2,other
+Poland,1981,71.2,other
+Poland,1982,71.2,other
+Poland,1983,71.1,other
+Poland,1984,70.9,other
+Poland,1985,71.1,other
+Poland,1986,71,other
+Poland,1987,71.5,other
+Poland,1988,71.5,other
+Poland,1989,71.2,other
+Poland,1990,70.8,other
+Poland,1991,70.5,other
+Poland,1992,71.1,other
+Poland,1993,71.6,other
+Poland,1994,71.8,other
+Poland,1995,72.1,other
+Poland,1996,72.4,other
+Poland,1997,72.8,other
+Poland,1998,73.2,other
+Poland,1999,73.2,other
+Poland,2000,73.8,other
+Poland,2001,74.2,other
+Poland,2002,74.6,other
+Poland,2003,74.7,other
+Poland,2004,74.9,other
+Poland,2005,75.1,other
+Poland,2006,75.3,other
+Poland,2007,75.4,other
+Poland,2008,75.7,other
+Poland,2009,75.8,other
+Poland,2010,76.5,other
+Poland,2011,76.8,other
+Poland,2012,76.9,other
+Poland,2013,77.1,other
+Poland,2014,77.7,other
+Poland,2015,77.6,other
+Portugal,1960,63.9,other
+Portugal,1961,62.7,other
+Portugal,1962,64.1,other
+Portugal,1963,64.7,other
+Portugal,1964,64.9,other
+Portugal,1965,65.8,other
+Portugal,1966,65.2,other
+Portugal,1967,66,other
+Portugal,1968,66.4,other
+Portugal,1969,65.9,other
+Portugal,1970,66.7,other
+Portugal,1971,66.4,other
+Portugal,1972,68.4,other
+Portugal,1973,67.5,other
+Portugal,1974,68.1,other
+Portugal,1975,68.4,other
+Portugal,1976,69,other
+Portugal,1977,70.1,other
+Portugal,1978,70.5,other
+Portugal,1979,71.3,other
+Portugal,1980,71.4,other
+Portugal,1981,71.7,other
+Portugal,1982,72.5,other
+Portugal,1983,72.4,other
+Portugal,1984,72.7,other
+Portugal,1985,73,other
+Portugal,1986,73.4,other
+Portugal,1987,73.8,other
+Portugal,1988,73.8,other
+Portugal,1989,74.4,other
+Portugal,1990,74.1,other
+Portugal,1991,74.1,other
+Portugal,1992,74.7,other
+Portugal,1993,74.6,other
+Portugal,1994,75.5,other
+Portugal,1995,75.4,other
+Portugal,1996,75.3,other
+Portugal,1997,75.8,other
+Portugal,1998,76,other
+Portugal,1999,76.3,other
+Portugal,2000,76.9,other
+Portugal,2001,77.2,other
+Portugal,2002,77.4,other
+Portugal,2003,77.5,other
+Portugal,2004,78.4,other
+Portugal,2005,78.2,other
+Portugal,2006,79,other
+Portugal,2007,79.2,other
+Portugal,2008,79.5,other
+Portugal,2009,79.7,other
+Portugal,2010,80,other
+Portugal,2011,80.6,other
+Portugal,2012,80.5,other
+Portugal,2013,80.8,other
+Portugal,2014,81.2,other
+Portugal,2015,81.2,other
+Slovak Republic,1960,70.3,other
+Slovak Republic,1961,70.9,other
+Slovak Republic,1962,70.4,other
+Slovak Republic,1963,70.8,other
+Slovak Republic,1964,71.2,other
+Slovak Republic,1965,70.4,other
+Slovak Republic,1966,70.6,other
+Slovak Republic,1967,71.2,other
+Slovak Republic,1968,70.7,other
+Slovak Republic,1969,70.1,other
+Slovak Republic,1970,70,other
+Slovak Republic,1971,70,other
+Slovak Republic,1972,70.5,other
+Slovak Republic,1973,70.1,other
+Slovak Republic,1974,70.3,other
+Slovak Republic,1975,70.5,other
+Slovak Republic,1976,70.6,other
+Slovak Republic,1977,70.6,other
+Slovak Republic,1978,70.6,other
+Slovak Republic,1979,70.9,other
+Slovak Republic,1980,70.6,other
+Slovak Republic,1981,70.9,other
+Slovak Republic,1982,71,other
+Slovak Republic,1983,70.7,other
+Slovak Republic,1984,71,other
+Slovak Republic,1985,71,other
+Slovak Republic,1986,71.2,other
+Slovak Republic,1987,71.4,other
+Slovak Republic,1988,71.5,other
+Slovak Republic,1989,71.3,other
+Slovak Republic,1990,71.2,other
+Slovak Republic,1991,71.2,other
+Slovak Republic,1992,71.6,other
+Slovak Republic,1993,72.1,other
+Slovak Republic,1994,72.5,other
+Slovak Republic,1995,72.5,other
+Slovak Republic,1996,72.9,other
+Slovak Republic,1997,72.9,other
+Slovak Republic,1998,72.8,other
+Slovak Republic,1999,73.2,other
+Slovak Republic,2000,73.4,other
+Slovak Republic,2001,73.6,other
+Slovak Republic,2002,73.8,other
+Slovak Republic,2003,73.8,other
+Slovak Republic,2004,74.2,other
+Slovak Republic,2005,74.2,other
+Slovak Republic,2006,74.4,other
+Slovak Republic,2007,74.5,other
+Slovak Republic,2008,75,other
+Slovak Republic,2009,75.3,other
+Slovak Republic,2010,75.6,other
+Slovak Republic,2011,76.1,other
+Slovak Republic,2012,76.2,other
+Slovak Republic,2013,76.5,other
+Slovak Republic,2014,76.9,other
+Slovak Republic,2015,76.7,other
+Spain,1960,69.8,other
+Spain,1970,72,other
+Spain,1975,73.4,other
+Spain,1976,73.7,other
+Spain,1977,74.2,other
+Spain,1978,74.4,other
+Spain,1979,74.9,other
+Spain,1980,75.4,other
+Spain,1981,75.7,other
+Spain,1982,76.3,other
+Spain,1983,76,other
+Spain,1984,76.4,other
+Spain,1985,76.4,other
+Spain,1986,76.7,other
+Spain,1987,76.9,other
+Spain,1988,76.9,other
+Spain,1989,77,other
+Spain,1990,77,other
+Spain,1991,77.1,other
+Spain,1992,77.6,other
+Spain,1993,77.7,other
+Spain,1994,78.1,other
+Spain,1995,78.1,other
+Spain,1996,78.3,other
+Spain,1997,78.8,other
+Spain,1998,78.9,other
+Spain,1999,78.8,other
+Spain,2000,79.3,other
+Spain,2001,79.8,other
+Spain,2002,79.9,other
+Spain,2003,79.7,other
+Spain,2004,80.4,other
+Spain,2005,80.3,other
+Spain,2006,81.1,other
+Spain,2007,81.2,other
+Spain,2008,81.5,other
+Spain,2009,81.9,other
+Spain,2010,82.4,other
+Spain,2011,82.6,other
+Spain,2012,82.5,other
+Spain,2013,83.2,other
+Spain,2014,83.3,other
+Spain,2015,83,other
+Sweden,1960,73.1,other
+Sweden,1961,73.5,other
+Sweden,1962,73.4,other
+Sweden,1963,73.6,other
+Sweden,1964,73.8,other
+Sweden,1965,73.9,other
+Sweden,1966,74.2,other
+Sweden,1967,74.2,other
+Sweden,1968,74.1,other
+Sweden,1969,74.2,other
+Sweden,1970,74.8,other
+Sweden,1971,74.8,other
+Sweden,1972,74.8,other
+Sweden,1973,75,other
+Sweden,1974,75.1,other
+Sweden,1975,75.2,other
+Sweden,1976,75.1,other
+Sweden,1977,75.6,other
+Sweden,1978,75.7,other
+Sweden,1979,75.7,other
+Sweden,1980,75.9,other
+Sweden,1981,76.2,other
+Sweden,1982,76.5,other
+Sweden,1983,76.7,other
+Sweden,1984,77,other
+Sweden,1985,76.8,other
+Sweden,1986,77.1,other
+Sweden,1987,77.3,other
+Sweden,1988,77.1,other
+Sweden,1989,77.8,other
+Sweden,1990,77.7,other
+Sweden,1991,77.9,other
+Sweden,1992,78.2,other
+Sweden,1993,78.2,other
+Sweden,1994,78.9,other
+Sweden,1995,79,other
+Sweden,1996,79.2,other
+Sweden,1997,79.4,other
+Sweden,1998,79.5,other
+Sweden,1999,79.6,other
+Sweden,2000,79.7,other
+Sweden,2001,79.9,other
+Sweden,2002,79.9,other
+Sweden,2003,80.3,other
+Sweden,2004,80.6,other
+Sweden,2005,80.7,other
+Sweden,2006,81,other
+Sweden,2007,81.1,other
+Sweden,2008,81.3,other
+Sweden,2009,81.5,other
+Sweden,2010,81.6,other
+Sweden,2011,81.9,other
+Sweden,2012,81.8,other
+Sweden,2013,82,other
+Sweden,2014,82.3,other
+Sweden,2015,82.3,other
+Switzerland,1960,71.4,other
+Switzerland,1961,71.8,other
+Switzerland,1962,71.3,other
+Switzerland,1963,71.3,other
+Switzerland,1964,72.2,other
+Switzerland,1965,72.3,other
+Switzerland,1966,72.5,other
+Switzerland,1967,72.8,other
+Switzerland,1968,72.7,other
+Switzerland,1969,72.7,other
+Switzerland,1970,73.1,other
+Switzerland,1971,73.3,other
+Switzerland,1972,73.8,other
+Switzerland,1973,74.1,other
+Switzerland,1974,74.4,other
+Switzerland,1975,74.8,other
+Switzerland,1976,74.9,other
+Switzerland,1977,75.4,other
+Switzerland,1978,75.4,other
+Switzerland,1979,75.7,other
+Switzerland,1980,75.7,other
+Switzerland,1981,75.9,other
+Switzerland,1982,76.2,other
+Switzerland,1983,76.2,other
+Switzerland,1984,76.9,other
+Switzerland,1985,77,other
+Switzerland,1986,77.1,other
+Switzerland,1987,77.5,other
+Switzerland,1988,77.5,other
+Switzerland,1989,77.7,other
+Switzerland,1990,77.5,other
+Switzerland,1991,77.8,other
+Switzerland,1992,78,other
+Switzerland,1993,78.4,other
+Switzerland,1994,78.6,other
+Switzerland,1995,78.7,other
+Switzerland,1996,79.1,other
+Switzerland,1997,79.3,other
+Switzerland,1998,79.6,other
+Switzerland,1999,79.8,other
+Switzerland,2000,79.9,other
+Switzerland,2001,80.4,other
+Switzerland,2002,80.6,other
+Switzerland,2003,80.6,other
+Switzerland,2004,81.2,other
+Switzerland,2005,81.4,other
+Switzerland,2006,81.7,other
+Switzerland,2007,82,other
+Switzerland,2008,82.2,other
+Switzerland,2009,82.3,other
+Switzerland,2010,82.6,other
+Switzerland,2011,82.8,other
+Switzerland,2012,82.8,other
+Switzerland,2013,82.9,other
+Switzerland,2014,83.3,other
+Switzerland,2015,83,other
+Turkey,1960,48.3,other
+Turkey,1961,49,other
+Turkey,1962,49.7,other
+Turkey,1963,50.3,other
+Turkey,1964,51,other
+Turkey,1965,51.6,other
+Turkey,1966,52.2,other
+Turkey,1967,52.9,other
+Turkey,1968,53.4,other
+Turkey,1969,53.8,other
+Turkey,1970,54.2,other
+Turkey,1971,54.6,other
+Turkey,1972,55,other
+Turkey,1973,55.4,other
+Turkey,1974,55.7,other
+Turkey,1975,56.1,other
+Turkey,1976,56.5,other
+Turkey,1977,56.9,other
+Turkey,1978,57.3,other
+Turkey,1979,57.7,other
+Turkey,1980,58.1,other
+Turkey,1981,58.5,other
+Turkey,1982,58.9,other
+Turkey,1983,59.7,other
+Turkey,1984,60.9,other
+Turkey,1985,62.1,other
+Turkey,1986,63.2,other
+Turkey,1987,64.4,other
+Turkey,1988,65.2,other
+Turkey,1989,65.7,other
+Turkey,1990,67.5,other
+Turkey,1991,67.8,other
+Turkey,1992,68.2,other
+Turkey,1993,68.5,other
+Turkey,1994,68.9,other
+Turkey,1995,69.3,other
+Turkey,1996,69.7,other
+Turkey,1997,70.1,other
+Turkey,1998,70.3,other
+Turkey,1999,70.7,other
+Turkey,2000,71.1,other
+Turkey,2001,71.5,other
+Turkey,2002,71.9,other
+Turkey,2003,72.3,other
+Turkey,2004,72.7,other
+Turkey,2005,73.1,other
+Turkey,2006,73.4,other
+Turkey,2007,73.7,other
+Turkey,2008,73.9,other
+Turkey,2009,74.1,other
+Turkey,2010,74.3,other
+Turkey,2011,74.6,other
+Turkey,2012,74.6,other
+Turkey,2013,78,other
+Turkey,2014,78,other
+Turkey,2015,78,other
+United Kingdom,1960,70.8,other
+United Kingdom,1961,70.7,other
+United Kingdom,1970,71.9,other
+United Kingdom,1971,71.9,other
+United Kingdom,1980,73.2,other
+United Kingdom,1981,73.8,other
+United Kingdom,1982,74.1,other
+United Kingdom,1983,74.3,other
+United Kingdom,1984,74.5,other
+United Kingdom,1985,74.7,other
+United Kingdom,1986,74.8,other
+United Kingdom,1987,75.2,other
+United Kingdom,1988,75.3,other
+United Kingdom,1989,75.4,other
+United Kingdom,1990,75.7,other
+United Kingdom,1991,75.9,other
+United Kingdom,1992,76.3,other
+United Kingdom,1993,76.2,other
+United Kingdom,1994,76.8,other
+United Kingdom,1995,76.7,other
+United Kingdom,1996,76.9,other
+United Kingdom,1997,77.2,other
+United Kingdom,1998,77.3,other
+United Kingdom,1999,77.5,other
+United Kingdom,2000,77.9,other
+United Kingdom,2001,78.2,other
+United Kingdom,2002,78.3,other
+United Kingdom,2003,78.4,other
+United Kingdom,2004,79,other
+United Kingdom,2005,79.2,other
+United Kingdom,2006,79.5,other
+United Kingdom,2007,79.7,other
+United Kingdom,2008,79.8,other
+United Kingdom,2009,80.4,other
+United Kingdom,2010,80.6,other
+United Kingdom,2011,81,other
+United Kingdom,2012,81,other
+United Kingdom,2013,81.1,other
+United Kingdom,2014,81.4,other
+United Kingdom,2015,81,other
+United States,1960,69.9,usa
+United States,1961,70.4,usa
+United States,1962,70.2,usa
+United States,1963,70,usa
+United States,1964,70.3,usa
+United States,1965,70.3,usa
+United States,1966,70.3,usa
+United States,1967,70.7,usa
+United States,1968,70.4,usa
+United States,1969,70.6,usa
+United States,1970,70.9,usa
+United States,1971,71.2,usa
+United States,1972,71.3,usa
+United States,1973,71.5,usa
+United States,1974,72.1,usa
+United States,1975,72.7,usa
+United States,1976,73,usa
+United States,1977,73.4,usa
+United States,1978,73.5,usa
+United States,1979,73.9,usa
+United States,1980,73.7,usa
+United States,1981,74.1,usa
+United States,1982,74.5,usa
+United States,1983,74.6,usa
+United States,1984,74.7,usa
+United States,1985,74.7,usa
+United States,1986,74.7,usa
+United States,1987,74.9,usa
+United States,1988,74.9,usa
+United States,1989,75.1,usa
+United States,1990,75.3,usa
+United States,1991,75.5,usa
+United States,1992,75.7,usa
+United States,1993,75.5,usa
+United States,1994,75.7,usa
+United States,1995,75.7,usa
+United States,1996,76.1,usa
+United States,1997,76.5,usa
+United States,1998,76.7,usa
+United States,1999,76.7,usa
+United States,2000,76.7,usa
+United States,2001,76.9,usa
+United States,2002,77,usa
+United States,2003,77.1,usa
+United States,2004,77.6,usa
+United States,2005,77.6,usa
+United States,2006,77.8,usa
+United States,2007,78.1,usa
+United States,2008,78.1,usa
+United States,2009,78.5,usa
+United States,2010,78.6,usa
+United States,2011,78.7,usa
+United States,2012,78.8,usa
+United States,2013,78.8,usa
+United States,2014,78.9,usa
+United States,2015,78.8,usa
+Chile,1970,62.3,other
+Chile,1990,72.9,other
+Chile,1991,74,other
+Chile,1992,74.5,other
+Chile,1993,74.5,other
+Chile,1994,75,other
+Chile,1995,74.9,other
+Chile,1996,75.2,other
+Chile,1997,75.7,other
+Chile,1998,75.8,other
+Chile,1999,76,other
+Chile,2000,76.8,other
+Chile,2001,76.8,other
+Chile,2002,77.2,other
+Chile,2003,77.2,other
+Chile,2004,77.2,other
+Chile,2005,77.6,other
+Chile,2006,78,other
+Chile,2007,77.5,other
+Chile,2008,78.1,other
+Chile,2009,78.2,other
+Chile,2010,78,other
+Chile,2011,78.7,other
+Chile,2012,78.7,other
+Chile,2013,79.5,other
+Chile,2014,79.7,other
+Chile,2015,79.1,other
+Chile,2016,79.2,other
+Estonia,1960,68.9,other
+Estonia,1961,69.2,other
+Estonia,1962,69.4,other
+Estonia,1963,69.5,other
+Estonia,1964,70.3,other
+Estonia,1965,70.3,other
+Estonia,1966,70.4,other
+Estonia,1967,70.6,other
+Estonia,1968,70.2,other
+Estonia,1969,69.9,other
+Estonia,1970,70,other
+Estonia,1971,70.3,other
+Estonia,1972,70.1,other
+Estonia,1973,70.4,other
+Estonia,1974,70.5,other
+Estonia,1975,69.9,other
+Estonia,1976,69.5,other
+Estonia,1977,69.6,other
+Estonia,1978,69.4,other
+Estonia,1979,69.2,other
+Estonia,1980,69.3,other
+Estonia,1981,69.1,other
+Estonia,1982,69.7,other
+Estonia,1983,69.6,other
+Estonia,1984,69.5,other
+Estonia,1985,69.6,other
+Estonia,1986,70.7,other
+Estonia,1987,70.7,other
+Estonia,1988,70.8,other
+Estonia,1989,70.3,other
+Estonia,1990,69.8,other
+Estonia,1991,69.7,other
+Estonia,1992,69.1,other
+Estonia,1993,68.2,other
+Estonia,1994,66.8,other
+Estonia,1995,67.9,other
+Estonia,1996,69.9,other
+Estonia,1997,70.1,other
+Estonia,1998,69.7,other
+Estonia,1999,70.6,other
+Estonia,2000,71,other
+Estonia,2001,70.9,other
+Estonia,2002,71.4,other
+Estonia,2003,71.8,other
+Estonia,2004,72.4,other
+Estonia,2005,72.9,other
+Estonia,2006,73.1,other
+Estonia,2007,73.2,other
+Estonia,2008,74.2,other
+Estonia,2009,75.2,other
+Estonia,2010,75.9,other
+Estonia,2011,76.4,other
+Estonia,2012,76.5,other
+Estonia,2013,77.3,other
+Estonia,2014,77.2,other
+Estonia,2015,77.7,other
+Israel,1971,71.8,other
+Israel,1972,71.5,other
+Israel,1973,71.7,other
+Israel,1974,71.7,other
+Israel,1975,72.1,other
+Israel,1976,73,other
+Israel,1977,73,other
+Israel,1978,73.3,other
+Israel,1979,73.6,other
+Israel,1980,73.9,other
+Israel,1981,74.3,other
+Israel,1982,74.2,other
+Israel,1983,74.5,other
+Israel,1984,74.9,other
+Israel,1985,75.3,other
+Israel,1986,75,other
+Israel,1987,75.3,other
+Israel,1988,75.7,other
+Israel,1989,76.4,other
+Israel,1990,76.7,other
+Israel,1991,76.8,other
+Israel,1992,76.6,other
+Israel,1993,77.2,other
+Israel,1994,77.5,other
+Israel,1995,77.5,other
+Israel,1996,78.2,other
+Israel,1997,78.1,other
+Israel,1998,78.2,other
+Israel,1999,78.5,other
+Israel,2000,78.8,other
+Israel,2001,79.3,other
+Israel,2002,79.5,other
+Israel,2003,79.7,other
+Israel,2004,80.2,other
+Israel,2005,80.2,other
+Israel,2006,80.6,other
+Israel,2007,80.6,other
+Israel,2008,81,other
+Israel,2009,81.5,other
+Israel,2010,81.7,other
+Israel,2011,81.7,other
+Israel,2012,81.8,other
+Israel,2013,82.1,other
+Israel,2014,82.2,other
+Israel,2015,82.1,other
+Slovenia,1970,68.7,other
+Slovenia,1982,71.2,other
+Slovenia,1983,71,other
+Slovenia,1984,71.4,other
+Slovenia,1985,71.9,other
+Slovenia,1986,72.4,other
+Slovenia,1987,72.4,other
+Slovenia,1988,73,other
+Slovenia,1989,73.4,other
+Slovenia,1990,73.8,other
+Slovenia,1991,73.5,other
+Slovenia,1992,73.6,other
+Slovenia,1993,73.5,other
+Slovenia,1994,74,other
+Slovenia,1995,74.7,other
+Slovenia,1996,75.1,other
+Slovenia,1997,75.1,other
+Slovenia,1998,75.3,other
+Slovenia,1999,75.7,other
+Slovenia,2000,76.1,other
+Slovenia,2001,76.4,other
+Slovenia,2002,76.6,other
+Slovenia,2003,76.4,other
+Slovenia,2004,77.2,other
+Slovenia,2005,77.4,other
+Slovenia,2006,78.3,other
+Slovenia,2007,78.3,other
+Slovenia,2008,79.1,other
+Slovenia,2009,79.3,other
+Slovenia,2010,79.8,other
+Slovenia,2011,80.1,other
+Slovenia,2012,80.2,other
+Slovenia,2013,80.4,other
+Slovenia,2014,81.2,other
+Slovenia,2015,80.9,other
+Latvia,2002,70.1,other
+Latvia,2003,70.5,other
+Latvia,2004,70.8,other
+Latvia,2005,70.6,other
+Latvia,2006,70.6,other
+Latvia,2007,70.8,other
+Latvia,2008,72,other
+Latvia,2009,72.6,other
+Latvia,2010,73,other
+Latvia,2011,73.7,other
+Latvia,2012,73.9,other
+Latvia,2013,74.1,other
+Latvia,2014,74.3,other
+Latvia,2015,74.6,other

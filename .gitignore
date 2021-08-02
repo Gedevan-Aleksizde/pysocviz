@@ -1,0 +1,8 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.ideas
+build
+dist
+pysocviz.egg-info

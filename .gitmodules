@@ -1,0 +1,3 @@
+[submodule "socviz"]
+	path = socviz
+	url = git@github.com:kjhealy/socviz.git
