@@ -7,3 +7,4 @@ build
 dist
 pysocviz.egg-info
 notebooks/plot1.png
+dev/trials.py

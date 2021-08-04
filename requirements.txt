@@ -6,3 +6,4 @@ numpy>=1.20.3
 pandas>=1.2.4
 scikit-misc>=0.1.4
 statsmodels>=0.12.2
+plotnine>=0.8

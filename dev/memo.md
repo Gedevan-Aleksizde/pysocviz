@@ -10,11 +10,10 @@
   * freq_tab
   * round_df
   * center_df
-  * prefix_strip
+  * prefix_strip - 正規表現は自分で書けてほしいが statsmodels 自体あんまり使わないし...
   * prefix_replace
 * lay_out は無理
 * tw_tab は?
-
-TODO: いつのまにか factor/reorder が特別に使えるようになっていた
+* その他本文で使われている他のパッケージの関数の擬似的な再現
 
 TODO: hrbrthemes っぽいテーマ
