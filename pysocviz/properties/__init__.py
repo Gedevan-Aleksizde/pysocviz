@@ -1,3 +1,3 @@
 #! /usr/bin/env python
 # -*- coding: utf-8 -*-
-from pysocviz.properties.properties import linetypes, dcolors
+from pysocviz.misc.constants import linetypes, dcolors

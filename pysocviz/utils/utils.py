@@ -3,8 +3,31 @@
 import pandas as pd
 import numpy as np
 from plotnine import (
-    ggplot, aes, geom_pointrange, coord_flip, labs)
+    ggplot, aes, geom_pointrange, coord_flip, labs, geom_text, geom_tile,
+    coord_fixed
+)
 from patsy import dmatrix
+from ..misc.constants import gridcarto_us
+from ..p9extra.themes import theme_map_pseudo
+from matplotlib.pylab import cm
+from matplotlib.colors import rgb2hex
+
+def discretized_cmap(cmap, n=256, reverse=False):
+    """
+    create a gradient discrete color mapping from matplotlib color mappings
+    :param cmap: str. matplotlib color mapping name
+    :param n: int. number of levels.
+    :param reverse: whether or not to reverse the color order.
+    :return: list, its length is equal to `n`.
+    """
+    pal = cm.get_cmap(cmap)
+    if pal.N == 256:
+        pal = [rgb2hex(pal(col)) for idx, col in enumerate(range(pal.N)) if idx in np.floor(np.linspace(0, pal.N - 1, n, dtype=int))]
+    else:
+        pal = [rgb2hex(pal(col)) for idx, col in enumerate(range(pal.N))][:n]
+    if reverse:
+        pal = list(reversed(pal))
+    return pal
 
 
 def prefix_strip(series):
@@ -122,3 +145,31 @@ def cplot(fit, formula, data, at):
     upper = np.maximum(0, np.minimum(1, cpv + std_errors * c))
     lower = np.maximum(0, np.minimum(1, cpv - std_errors * c))
     return pd.DataFrame({'xvals': fixed, 'yvals': cpv, 'upper': upper, 'lower': lower})
+
+
+def statebins(state_data, state_col='state', value_col='value',
+              font_size=10, text_color="black", state_border_col=None):
+    if state_data[state_col].apply(lambda x: len(x) > 2).any():
+        print('merged by state names')
+        dat = pd.DataFrame(gridcarto_us).merge(
+            state_data.assign(**{state_col: lambda d: d[state_col].str.lower()}),
+            left_on='__state__',
+            right_on=state_col,
+            how='left'
+        )
+    else:
+        print('merged by abbreviations')
+        dat = pd.DataFrame(gridcarto_us).merge(
+            state_data.assign(**{state_col: lambda d: d[state_col].str.upper()}),
+            left_on='__abbr__',
+            right_on=state_col,
+            how='left'
+        )
+    return ggplot(
+        dat,
+        aes(x='__x__', y='__y__', label='__abbr__')
+    ) + geom_tile(
+        aes(width=.9, height=.9, fill=value_col), color=state_border_col
+    ) + geom_text(
+        size=font_size, color=text_color
+    ) + theme_map_pseudo() + coord_fixed()
