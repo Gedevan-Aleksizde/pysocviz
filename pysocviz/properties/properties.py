@@ -11,7 +11,7 @@ linetypes = {
   'dotdash': '-.'
 }
 
-colors = {
+dcolors = {
     "white": "#ffffff",
     "aliceblue": "#f0f8ff",
     "antiquewhite": "#faebd7",
