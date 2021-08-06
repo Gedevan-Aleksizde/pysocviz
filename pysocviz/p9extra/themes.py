@@ -15,8 +15,7 @@ def theme_map_pseudo():
 
 def theme_economist(base_family=None, base_size=12, horizontal=True, dkpanel=False):
     ax_x, ax_y = (
-        element_line(size=2, color='white'),
-        element_blank()
+        element_blank(), element_line(size=2, color='white')
     ) if horizontal else (element_line(size=2, color='white'), element_blank())
     panel_bg = element_rect(fill='#c3d6df') if dkpanel else element_blank()
     return theme_light(
