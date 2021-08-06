@@ -11,6 +11,7 @@ from ..misc.constants import gridcarto_us
 from ..p9extra.themes import theme_map_pseudo
 from matplotlib.pylab import cm
 from matplotlib.colors import rgb2hex
+from textwrap import wrap
 
 def discretized_cmap(cmap, n=256, reverse=False):
     """
@@ -173,3 +174,9 @@ def statebins(state_data, state_col='state', value_col='value',
     ) + geom_text(
         size=font_size, color=text_color
     ) + theme_map_pseudo() + coord_fixed()
+
+
+def wrap_format(width):
+    def f(labels):
+        return ['\n'.join(wrap(l, width)) for l in labels]
+    return f

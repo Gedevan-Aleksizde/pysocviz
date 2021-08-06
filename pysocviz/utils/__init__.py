@@ -8,5 +8,6 @@ from pysocviz.utils.utils import (
     tidy_ols,
     coefplot,
     cplot,
-    statebins
+    statebins,
+    wrap_format
 )

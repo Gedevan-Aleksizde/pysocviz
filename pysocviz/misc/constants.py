@@ -680,6 +680,14 @@ dcolors = {
 }
 
 
+wsj_colors = dict(
+    gray='#efefef',
+    green='#e9f3ea',
+    blue='#d4dee7',
+    brown='#f8f2e4'
+)
+
+
 gridcarto_us = {
     '__x__': [
         11,
