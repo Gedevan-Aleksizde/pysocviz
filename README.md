@@ -29,9 +29,44 @@ conda 等他の管理ツールで github リポジトリからインストール
 以下のコードで必要なものをインポートできます.
 
 ```python
-from pysocviz.reader import load_dataset
-from pysocviz.properties import colors, linetypes
-from pysocviz.utils import redefine_cat_with_na
+from pysocviz.loader import load_dataset  # socviz のデータセット読み込み関数
+from pysocviz.properties import *         # colorname, linetype
+from pysocviz.utils import *              # 本文中で使ういくつかの便利関数
+from pysocviz.p9extra import *            # geom_* theme_* など plotnine の関数として利用できるもの
 ```
 
-詳細は `notebooks` 内の作例を見てください.
+詳細は [`notebooks`](notebooks) 内の作例を見てください.
+
+
+## This package provides:
+
+1. Pandas version of datasets in [socviz](https://github.com/kjhealy/socviz) 
+2. Python version of the sample codes to emulate graphes in Healy's "[Data Visualization: A Practical Introduction](https://socviz.co/)"
+3. Some functions to draw graphes more conveniently by Python
+
+## Installation
+
+```shs
+pip install git+https://github.com/Gedevan-Aleksizde/pysocviz.git
+```
+
+or, using `git clone`:
+
+```sh
+git clone git@github.com:Gedevan-Aleksizde/pysocviz.git
+cd pysocviz
+pip install ./
+```
+
+## Usage
+
+You can import all functions from this package:
+
+```python
+from pysocviz.loader import load_dataset  # to load datasets
+from pysocviz.properties import *         # colorname, linetype name dictionaries
+from pysocviz.utils import *              # some utility functions
+from pysocviz.p9extra import *            # extra plotnine functions like geom_* theme_*
+```
+
+See [`notebooks`](notebooks/) in detail.
