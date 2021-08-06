@@ -8,7 +8,17 @@ if __name__ == '__main__':
         license='',
         author='Katagiri, Satoshi',
         packages=find_packages(),
-        install_requires=open('requirements.txt', 'r').readlines(),
+        install_requires=[
+            'adjustText >= 0.7.3',
+            'gapminder >= 0.1',
+            'geopandas >= 0.9.0',
+            'mizani >= 0.7.3',
+            'numpy >= 1.20.3',
+            'pandas >= 1.2.4',
+            'scikit-misc >= 0.1.4',
+            'statsmodels >= 0.12.2',
+            'plotnine >= 0.8'
+        ],
         package_data={'pysocviz': ['data/*.csv', 'data/schema.json']},
         author_email='katagiri.stsh@gmail.com',
         description='Unofficial python version of socviz by K. Healy',

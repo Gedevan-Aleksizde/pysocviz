@@ -22,6 +22,12 @@ cd pysocviz
 pip install ./
 ```
 
+あるいは, Releases から ZIP をダウンロードして
+
+```sh
+pip install pysocviz-X.X.zip
+```
+
 conda 等他の管理ツールで github リポジトリからインストールする方法は各自調べてください
 
 ## 使い方
@@ -50,12 +56,18 @@ from pysocviz.p9extra import *            # geom_* theme_* など plotnine の�
 pip install git+https://github.com/Gedevan-Aleksizde/pysocviz.git
 ```
 
-or, using `git clone`:
+Or, using `git clone`:
 
 ```sh
 git clone git@github.com:Gedevan-Aleksizde/pysocviz.git
 cd pysocviz
 pip install ./
+```
+
+Or after downloading zip file from "Releases",
+
+```sh
+pip install pysocviz-X.X.zip
 ```
 
 ## Usage
