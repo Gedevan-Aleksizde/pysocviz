@@ -3,6 +3,7 @@
 from plotnine import theme, element_blank, element_rect, element_line, theme_light, element_text
 from ..misc.constants import wsj_colors
 
+
 def theme_map_pseudo():
     return theme(
         axis_title=element_blank(),

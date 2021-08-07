@@ -9,27 +9,6 @@ from plotnine import (
 from patsy import dmatrix
 from ..misc.constants import gridcarto_us
 from ..p9extra.themes import theme_map_pseudo
-from matplotlib.pylab import cm
-from matplotlib.colors import rgb2hex
-from textwrap import wrap
-
-def discretized_cmap(cmap, n=256, reverse=False):
-    """
-    create a gradient discrete color mapping from matplotlib color mappings
-    :param cmap: str. matplotlib color mapping name
-    :param n: int. number of levels.
-    :param reverse: whether or not to reverse the color order.
-    :return: list, its length is equal to `n`.
-    """
-    pal = cm.get_cmap(cmap)
-    if pal.N == 256:
-        pal = [rgb2hex(pal(col)) for idx, col in enumerate(range(pal.N)) if idx in np.floor(np.linspace(0, pal.N - 1, n, dtype=int))]
-    else:
-        pal = [rgb2hex(pal(col)) for idx, col in enumerate(range(pal.N))][:n]
-    if reverse:
-        pal = list(reversed(pal))
-    return pal
-
 
 def prefix_strip(series):
     """
@@ -174,9 +153,3 @@ def statebins(state_data, state_col='state', value_col='value',
     ) + geom_text(
         size=font_size, color=text_color
     ) + theme_map_pseudo() + coord_fixed()
-
-
-def wrap_format(width):
-    def f(labels):
-        return ['\n'.join(wrap(l, width)) for l in labels]
-    return f

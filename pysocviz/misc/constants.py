@@ -687,6 +687,25 @@ wsj_colors = dict(
     brown='#f8f2e4'
 )
 
+pander_colors = [
+    '#56B4E9', '#009E73', '#F0E442', '#0072B2',
+    '#D55E00', '#CC79A7', '#999999', '#E69F00'
+]
+
+colorblind_colors = [
+    "#000000", "#E69F00", "#56B4E9", "#009E73",
+    "#F0E442", "#0072B2", "#D55E00", "#CC79A7"
+]
+
+okabeito_colors_black = [
+    "#E69F00", "#56B4E9", "#009E73", "#F0E442",
+    "#0072B2", "#D55E00", "#CC79A7", "#000000"
+]
+
+okabeito_colors_gray = [
+    "#E69F00", "#56B4E9", "#009E73", "#F0E442",
+    "#0072B2", "#D55E00", "#CC79A7", "#999999"
+]
 
 gridcarto_us = {
     '__x__': [
