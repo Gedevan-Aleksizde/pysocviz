@@ -41,7 +41,7 @@ from pysocviz.utils import *              # 本文中で使ういくつかの便
 from pysocviz.p9extra import *            # geom_* theme_* など plotnine の関数として利用できるもの
 ```
 
-詳細は [`notebooks`](notebooks) 内の作例を見てください.
+詳細は [`notebooks/jp`](notebooks/jp) 内の作例を見てください.
 
 
 ## This package provides:
