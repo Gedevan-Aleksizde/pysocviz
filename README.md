@@ -28,6 +28,12 @@ pip install ./
 pip install pysocviz-X.X.zip
 ```
 
+Notebook の実行に必要なパッケージは, [poetry](https://python-poetry.org/) を使用してインストールできます. poetry をインストールしていない場合は `pip install poetry` などでインストールできます.
+
+```sh
+poetry install
+```
+
 conda 等他の管理ツールで github リポジトリからインストールする方法は各自調べてください
 
 ## 使い方
@@ -68,6 +74,12 @@ Or after downloading zip file from "Releases",
 
 ```sh
 pip install pysocviz-X.X.zip
+```
+
+You can install full dependencies to run the notebooks by [poetry](https://python-poetry.org/).
+
+```sh
+poetry install
 ```
 
 ## Usage
