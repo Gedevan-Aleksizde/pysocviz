@@ -18,7 +18,7 @@ map_dtype_base = {
     'factor': lambda x: pd.Categorical(x),
     'integer': lambda x: pd.to_numeric(x, downcast='integer'),
     'character': lambda x : x.astype('str'),
-    'Date': lambda x: x.astype('datetime64'),
+    'Date': lambda x: x.astype('datetime64[ns]'),
     'numeric': lambda x: x.astype('float64'),
     'logical': lambda x: x.astype(bool)
     }
