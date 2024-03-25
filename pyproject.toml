@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "pysocviz"
+version = "0.1.0"
+description = ""
+authors = ["Katagiri, Satoshi <katagiri.stsh@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+numpy = "^1.26.4"
+pandas = "^2.2.1"
+plotnine = "^0.13.2"
+mizani = "^0.11.0"
+scikit-misc = "^0.3.1"
+adjusttext = "^1.1.1"
+gapminder = "^0.1"
+geopandas = "^0.14.3"
+cartopy = "^0.22.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
