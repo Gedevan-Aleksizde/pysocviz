@@ -9,8 +9,9 @@ from plotnine import (
 from patsy import dmatrix
 from ..misc.constants import gridcarto_us
 from ..p9extra.themes import theme_map_pseudo
+from statsmodels.regression.linear_model import OLS
 
-def prefix_strip(series):
+def prefix_strip(series:pd.Series)->pd.Series:
     """
     clip verbose prefix (and brackets) from categorical term names
     For example:
@@ -22,7 +23,7 @@ def prefix_strip(series):
     return series.str.replace(r"^.+?\[T\.(.+?)\]$", r"\1", regex=True)
 
 
-def brackets_replace(series, sep=':'):
+def brackets_replace(series:pd.Series, sep:str=':')->pd.Series:
     """
     clip only brackets from categorical term names
     For example:
@@ -35,7 +36,7 @@ def brackets_replace(series, sep=':'):
     return series.str.replace(r"^(.+?)\[T\.(.+?)\]$", f"\\1{sep}\\2", regex=True)
 
 
-def redefine_cat_with_na(series, ordered=None, na_label='NA'):
+def redefine_cat_with_na(series:pd.Series, ordered:bool=None, na_label:str='NA')->pd.Series:
     """
     Redefine a categorical variable with missing values.
     :param series: `pandas.Series object`.
@@ -51,11 +52,13 @@ def redefine_cat_with_na(series, ordered=None, na_label='NA'):
         cats = series.fillna(na_label).astype(str).unique()
         ordered = ordered if ordered else False
     return pd.Categorical(
-        series.astype(str).fillna(na_label).astype(str), cats, ordered=ordered
+        values=series.astype(str).fillna(na_label).astype(str),
+        categories=cats,
+        ordered=ordered
     )
 
 
-def tidy_ols(ols_result, conf_int=False):
+def tidy_ols(ols_result:OLS, conf_int:bool=False)->pd.DataFrame:
     tidy = pd.DataFrame(
         {
             'estimate': ols_result.params,
@@ -73,7 +76,7 @@ def tidy_ols(ols_result, conf_int=False):
     return tidy
 
 
-def coefplot(fit, sort='natural', intercept=True, color='blue'):
+def coefplot(fit:OLS, sort:str='natural', intercept:bool=True, color:str='blue')->ggplot:
     tidy = tidy_ols(fit, conf_int=True)
     for c in ['estimate', 'term', 'conf_low', 'conf_high']:
         if c not in tidy.columns:
@@ -94,7 +97,7 @@ def coefplot(fit, sort='natural', intercept=True, color='blue'):
     ) + labs(**dict(y='Value', x='Coefficient', title='Coefficient Plot'))
 
 
-def cplot(fit, formula, data, at):
+def cplot(fit:OLS, formula:str, data:pd.DataFrame, at)->pd.DataFrame:
     """
     plotting ommitted, only a data frame.
     """
@@ -127,8 +130,8 @@ def cplot(fit, formula, data, at):
     return pd.DataFrame({'xvals': fixed, 'yvals': cpv, 'upper': upper, 'lower': lower})
 
 
-def statebins(state_data, state_col='state', value_col='value',
-              font_size=10, text_color="black", state_border_col=None):
+def statebins(state_data:pd.DataFrame, state_col='state', value_col='value',
+              font_size=10, text_color="black", state_border_col=None)->ggplot:
     if state_data[state_col].apply(lambda x: len(x) > 2).any():
         print('merged by state names')
         dat = pd.DataFrame(gridcarto_us).merge(
