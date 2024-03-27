@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "pysocviz"
-version = "0.1.0"
+version = "0.3.0"
 description = ""
 authors = ["Katagiri, Satoshi <katagiri.stsh@gmail.com>"]
 readme = "README.md"
@@ -16,6 +16,7 @@ adjusttext = "^1.1.1"
 gapminder = "^0.1"
 geopandas = "^0.14.3"
 cartopy = "^0.22.0"
+papermill = "^2.5.0"
 
 
 [build-system]
