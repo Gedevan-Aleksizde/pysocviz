@@ -40,21 +40,20 @@ def redefine_cat_with_na(series:pd.Series, ordered:bool=None, na_label:str='NA')
     """
     Redefine a categorical variable with missing values.
     :param series: `pandas.Series object`.
-    :param ordered: Whether `Series` is ordered or not, default is `None`
+    :param ordered: Whether `Series` is ordered or not, default is `None` only works if `series` is categorical.
     :param na_label: Actually label of na value, default is `NA`.
     You need to avoid conflict with existing category values.
     :return: Categorical variable as `Pandas.Series`.
     """
-    if series.dtype == pd.CategoricalDtype():
-        cats = list(series.cat.categories) + [na_label]
+    if type(series.dtype) == type(pd.CategoricalDtype()):
         ordered = ordered if ordered else series.cat.ordered
+        return series.cat.add_categories(na_label).fillna(na_label)
     else:
-        cats = series.fillna(na_label).astype(str).unique()
         ordered = ordered if ordered else False
+        cats = pd.CategoricalDtype(series.fillna(na_label).astype(str).unique(), ordered=ordered)
     return pd.Categorical(
         values=series.astype(str).fillna(na_label).astype(str),
-        categories=cats,
-        ordered=ordered
+        dtype=cats
     )
 
 
